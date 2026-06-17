@@ -77,15 +77,4 @@ Or run everything from the venv:
 - [x] ≥3 charts in `charts/`
 - [x] `README.md` + `requirements.txt`
 
-## GitHub push (Phase 9)
-
-```bash
-git init
-git add .
-git commit -m "Part 2: RFM Segmentation & Retention Strategy complete"
-git branch -M main
-git remote add origin <your-github-repo-url>
-git push -u origin main
-```
-
-Replace `<your-github-repo-url>` with your public repository URL.
+**Public repository:** https://github.com/Keshav-Verma-06/d2c-churn-part2-rfm
