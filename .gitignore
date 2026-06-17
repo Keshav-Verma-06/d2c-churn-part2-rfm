@@ -1,0 +1,9 @@
+.venv/
+# keep .venv locally; evaluators run: python -m venv .venv && pip install -r requirements.txt
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+_segment_summary.csv
+_seg_churn.csv
+_manual_review.csv
+_thresholds.csv
