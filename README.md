@@ -1,3 +1,10 @@
+(Part 1)	`https://github.com/Keshav-Verma-06/d2c-churn-part1-eda`
+(Part 2)	`https://github.com/Keshav-Verma-06/d2c-churn-part2-rfm`
+(Part 3)	`https://github.com/Keshav-Verma-06/d2c-churn-part3-model`
+(Part 4)	`https://github.com/Keshav-Verma-06/d2c-churn-part4-api`
+<img width="391" height="85" alt="image" src="https://github.com/user-attachments/assets/3bb44c5d-806d-4711-afe0-08278943612f" />
+
+
 # Part 2 Repository — RFM Segmentation & Retention Strategy
 
 **Part 2 Repository. Independent and runnable. Uses only pre-snapshot data (≤ 2025-09-30).**
